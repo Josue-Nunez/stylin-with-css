@@ -83,9 +83,9 @@
     <p>This is how we use a <strong>strong</strong> tag. This is how we use the <em>em</em> tag. This is how we use a       
        <strike>strike</strike> tag</p>
 
-    <div style="border:1px solid black">This is a div which is a default blocking element</div>
+    <div style:=border:1px solid black>This is a div which is a default blocking element</div>
 
-     <p>  Here is a <span style="background-color:pink;">span</span>,which is a default inline element </p>
+     <p>  Here is a <span style:="background-color:pink;">span</span>,which is a default inline element </p>
 
     <table class="my-table">
       <tr>
@@ -130,4 +130,3 @@
   </body>
 
 </html>
-
